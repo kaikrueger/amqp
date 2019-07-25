@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/streadway/amqp"
+	"github.com/kaikrueger/amqp"
 )
 
 type tlsServer struct {
