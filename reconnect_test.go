@@ -2,7 +2,7 @@ package amqp_test
 
 import (
 	"fmt"
-	"github.com/kaikrueger/amqp"
+	"github.com/streadway/amqp"
 	"os"
 )
 

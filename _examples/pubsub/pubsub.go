@@ -15,7 +15,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/kaikrueger/amqp"
+	"github.com/streadway/amqp"
 	"golang.org/x/net/context"
 )
 

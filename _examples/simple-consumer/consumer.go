@@ -7,7 +7,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/kaikrueger/amqp"
+	"github.com/streadway/amqp"
 	"log"
 	"time"
 )

@@ -3,7 +3,7 @@ package amqp_test
 import (
 	"errors"
 	"fmt"
-	"github.com/kaikrueger/amqp"
+	"github.com/streadway/amqp"
 	"log"
 	"os"
 	"time"
